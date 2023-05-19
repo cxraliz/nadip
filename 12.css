@@ -1,0 +1,209 @@
+.a{
+	background-color: white;
+	width: 880px;
+	height: 80px;
+
+}
+.reg{
+	margin: auto;
+
+}
+.c{
+	padding: 7px;
+	margin: 3px auto;
+}
+.nayti{
+	background-color: lightyellow;
+	padding: 7px;
+	margin: 3px auto;
+}
+.b{
+	padding: 7px;
+	margin: 3px auto;
+	background-color: yellow;
+}
+.sleva{
+	background-color: grey;
+	width: 250px;
+	height: 1200px;
+	color: white;
+	float: left;
+}
+.aq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: rgb(20, 14, 62)
+}
+.aq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.aqq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: rgb(20, 14, 62);
+}
+.aqq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.aqqq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.aqqq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.aqqqq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.aqqqq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.aqqqqq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.aqqqqq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.aqqqqqq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.aqqqqqq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.aqqqqqqq{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.aqqqqqqq:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.r{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.rr{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.rrr{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.rrrr{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.rrrrr{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(90, 14, 62);
+}
+.rrrrrr{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.rrrrrrr{
+	margin: auto;
+	background-color: grey;
+	width: 220px;
+	height: 30px;
+	color: white;
+	color: rgb(20, 14, 62);
+}
+.nomera{
+	background-color: white;
+	width: 775px;
+	height: 1100px;
+	float: left;
+	margin: auto;
+	padding: 5px;
+}
+.upr{
+	background-color: lightblue;
+	font-size: 20px;
+	padding: 5px;
+}
+.resh{
+	font-size: 50px;
+	float: left;
+	margin: 50px;
+}
+.reshh{
+	font-size: 50px;
+	float: left;
+	margin: 50px;
+}
+a{
+	color: rgb(20, 14, 62);
+}
+a:hover{
+	color: rgb(225, 143, 15);
+	transition: 0.5s;
+}
+.rekl{
+	background-color: lightblue;
+	font-size: 20px;
+	color: black;
+}
+.ketch{
+	background-image: url(AD.jpg);
+	width: 250px;
+	height: 250px;
+}
